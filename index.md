@@ -1,7 +1,7 @@
 ## Welcome to Val's DPR 241 Portfolo Homepage
 <p>Hi my name is Val. I am a web development and IT student at DCCC. I will earn my Associate's by the end of the year. Besides toying with computers, I also enjoy playing Pokemon tcg, bowling, Animal Crossing, and watching anime. Stay tuned for project updates.</p>
 
-
+![img requirement for project 2](https://github.com/vmcfarland98/vmcfarland.github.io/blob/gh-pages/Screenshot%20(1).png)
 
 ### My Projects
 [Advanced CSS](vmcfarlandacss.github.io)<br>
